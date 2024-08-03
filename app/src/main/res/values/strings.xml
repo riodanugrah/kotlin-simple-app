@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppVSGA</string>
+    <string name="title_activity_input">InputActivity</string>
+    <string name="title_activity_calculator">CalculatorActivity</string>
+    <string name="title_activity_list_view">ListViewActivity</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="title_activity_internal">InternalActivity</string>
+</resources>
